@@ -11,6 +11,6 @@ The data set contains information about bicycles rides provided by Bay Area Moti
 
 Key Insights:
 
-Male subscribers represnt more than half of the service users.
-Males Have higher duration rates, but on average the females and the others has a higher duration.
-Customers have higher duration average compared to subscribers.
+- Male subscribers represnt more than half of the service users.
+- Males Have higher duration rates, but on average the females and the others has a higher duration.
+- Customers have higher duration average compared to subscribers.
