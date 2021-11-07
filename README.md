@@ -6,6 +6,7 @@ Here we will try to get insights related to the service user's charstaristics su
 
 
 Dataset Overview:
+
 The data set contains information about bicycles rides provided by Bay Area Motivate from the Bay Wheels bicycle sharing service. The dataset contains the following features; The trip duration, time and date. The start and ende station ID, name, logitude, and latitude. The user type, gender, and birthyear.
 
 
